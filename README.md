@@ -1,0 +1,2 @@
+# Brain-Tumor-Detection-and-Classification-Using-Artificial-Intelligence
+Brain tumors are a critical health concern worldwide, often requiring accurateand timely diagnosis for effective treatment planning.  Traditional methods oftumor detection involve manual inspection of medical images by radiologists,which can be time-consuming and subjective.  Keywords: Brain Tumor (BT), MRI-Images, CT, IP, X-ray.
